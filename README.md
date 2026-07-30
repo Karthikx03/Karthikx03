@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" alt="Karthik M" width="100%"/>
+<img src="https://raw.githubusercontent.com/Karthikx03/Karthikx03/main/header.svg" alt="Karthik M" width="100%"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikx03)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karthikx03.github.io)
