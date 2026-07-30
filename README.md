@@ -1,138 +1,46 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Karthik+%F0%9F%91%8B;CS+%26+Engineering+Student;ML+%7C+AI+%7C+Web+Developer;Research+Intern+Aspirant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=26&pause=1000&color=2563EB&center=true&vCenter=true&width=640&lines=Karthik+M;Computer+Science+%26+Engineering+Student;Machine+Learning+%7C+Web+Development" alt="Typing SVG" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikx03)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://karthikx03.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikx03@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karthikx03.github.io)
+[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikx03@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-```python
-class Karthik:
-    def __init__(self):
-        self.name        = "Karthik"
-        self.university  = "Computer Science & Engineering"
-        self.semester    = "4th Semester"
-        self.interests   = ["Machine Learning", "Artificial Intelligence",
-                            "Web Development", "Research"]
-        self.seeking     = "Research Internships (Worldwide)"
-        self.languages   = ["Python", "JavaScript", "C++", "Java", "HTML/CSS"]
-        self.currently   = "Building AI-powered projects & exploring deep learning"
+Computer Science & Engineering student (4th semester) focused on machine learning and full-stack web development. I prefer building complete, working products over isolated experiments. My main project, SkillQuest, is a full-stack learning platform with a live deployment and a real backend. Currently seeking research internships and software engineering opportunities in ML/AI and web development.
 
-    def __str__(self):
-        return "Passionate CSE student turning ideas into intelligent systems!"
-```
+## Featured Project
 
----
+**SkillQuest** — A full-stack gamified learning platform teaching financial literacy, AI, cybersecurity, and career readiness. Built with Node.js/Express on the backend and HTML/CSS/JavaScript on the frontend, deployed on Render and GitHub Pages.
 
-## 🛠️ Tech Stack
+Live site: https://karthikx03.github.io/skillquest-site<br/>
+Source code: https://github.com/Karthikx03/skillquest-site
 
-**Languages**
+## Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Languages:** Python, JavaScript, C++, Java, HTML/CSS<br/>
+**Web Development:** React, Node.js, Express, Flask, REST APIs, MongoDB, MySQL<br/>
+**Machine Learning / Data:** Scikit-learn, Pandas, NumPy, TensorFlow, PyTorch<br/>
+**Tools:** Git, GitHub, VS Code, Jupyter, Linux
 
-**ML / AI / Data Science**
+## Other Projects (In Progress)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+Early-stage projects I'm actively developing:
 
-**Web Development**
+| Project | Description | Status |
+|---|---|---|
+| [PhishGuard AI](https://github.com/Karthikx03/phishguard-ai) | Phishing URL detection using ML classifiers | In progress |
+| [Data Structures & Algorithms](https://github.com/Karthikx03/data-structures-algorithms) | DSA implementations in Python and C++ | In progress |
+| [ML & AI Projects](https://github.com/Karthikx03/ml-ai-projects) | Classification, regression, and NLP experiments | In progress |
+| [Web Development Projects](https://github.com/Karthikx03/web-dev-projects) | React, Node.js, and Flask practice projects | In progress |
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+## Contact
 
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 🔥 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🛡️ [PhishGuard AI](https://github.com/Karthikx03/phishguard-ai) | AI-powered phishing URL detection system using ML classifiers | Python, ML, Flask |
-| 🌐 [Portfolio Website](https://github.com/Karthikx03/Karthikx03.github.io) | Personal portfolio showcasing skills & projects | HTML, CSS, JS |
-| 🤖 ML Experiments | Collection of machine learning models & experiments | Python, TensorFlow, Scikit-Learn |
-| 🧠 Deep Learning | Neural network implementations & NLP research | PyTorch, Keras |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karthikx03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikx03&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Karthikx03&theme=tokyonight)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🔬 Exploring **Deep Learning** architectures (Transformers, CNNs, RNNs)
-- 🌍 Applying for **Research Internships** in ML/AI worldwide
-- 🛡️ Building **AI security tools** (PhishGuard AI)
-- 📚 Learning **Computer Vision** and **NLP**
-- 🚀 Developing full-stack **AI-powered web applications**
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-I'm actively looking for **research internship opportunities** in:
-- 🤖 **Machine Learning & AI**
-- 🌐 **Web Development**
-- 📊 **Data Science**
-- 🔬 **Computer Vision / NLP**
-
-Feel free to reach out if you'd like to collaborate or have an opportunity!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikx03)
-[![Email Me](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthikx03@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Karthikx03&color=blueviolet&style=for-the-badge)
-
-⭐️ *"The best way to predict the future is to create it."* ⭐️
-
-</div>
+Open to research internships and software engineering roles. Reach out on [LinkedIn](https://linkedin.com/in/karthikx03) or by [email](mailto:karthikx03@gmail.com).
