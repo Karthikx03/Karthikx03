@@ -12,14 +12,7 @@
 
 ## About
 
-Computer Science & Engineering student (4th semester) focused on machine learning and full-stack web development. I prefer building complete, working products over isolated experiments. My main project, SkillQuest, is a full-stack learning platform with a live deployment and a real backend. Currently seeking research internships and software engineering opportunities in ML/AI and web development.
-
-| | |
-|---|---|
-| **Education** | B.Tech, Computer Science & Engineering (4th semester) |
-| **Focus areas** | Machine Learning, Full-Stack Web Development |
-| **Currently seeking** | Research internships, Software Engineering roles |
-| **Location** | India |
+<img src="https://raw.githubusercontent.com/Karthikx03/Karthikx03/main/about.svg?v=1" alt="About Karthik: CSE student focused on Machine Learning and Full-Stack Web Development, building SkillQuest, seeking research internships and software engineering roles" width="100%"/>
 
 ## Featured Project
 
