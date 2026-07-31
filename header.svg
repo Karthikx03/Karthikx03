@@ -1,16 +1,16 @@
 <svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <style>
-      .title { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-size: 50px; fill: #f8fafc; }
-      .subtitle { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-size: 22px; fill: #94a3b8; }
-      .line { stroke: #2563eb; stroke-width: 3; stroke-linecap: round; }
+      .title { font-family: Georgia, 'Times New Roman', serif; font-weight: 700; font-size: 56px; fill: #1f2937; letter-spacing: 2px; }
+      .subtitle { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-size: 22px; fill: #4b5563; }
+      .line { stroke: #9ca3af; stroke-width: 2; stroke-linecap: round; }
     </style>
   </defs>
 
-  <rect width="1200" height="220" fill="#0f172a" rx="14"/>
-  <rect x="1.5" y="1.5" width="1197" height="217" rx="12.5" fill="none" stroke="#1e293b" stroke-width="1"/>
+  <rect width="1200" height="220" fill="#ffffff" rx="14"/>
+  <rect x="1.5" y="1.5" width="1197" height="217" rx="12.5" fill="none" stroke="#e5e7eb" stroke-width="1"/>
 
-  <text x="600" y="108" text-anchor="middle" class="title">Karthik M</text>
-  <line x1="500" y1="130" x2="700" y2="130" class="line"/>
+  <text x="600" y="108" text-anchor="middle" class="title">Karthik</text>
+  <line x1="520" y1="130" x2="680" y2="130" class="line"/>
   <text x="600" y="168" text-anchor="middle" class="subtitle">Computer Science &amp; Engineering Student &#183; ML &amp; Web Development</text>
 </svg>
