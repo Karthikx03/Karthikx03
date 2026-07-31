@@ -1,71 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" width="1200" height="540">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#1e1b4b">
-        <animate attributeName="stop-color" values="#1e1b4b;#312e81;#1e1b4b" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" stop-color="#5b21b6">
-        <animate attributeName="stop-color" values="#5b21b6;#7c3aed;#5b21b6" dur="8s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#0e7490">
-        <animate attributeName="stop-color" values="#0e7490;#0891b2;#0e7490" dur="8s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22d3ee"/>
-      <stop offset="100%" stop-color="#a78bfa"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.35"/>
-      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
-    </radialGradient>
-    <filter id="blurMe" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="55"/>
-    </filter>
     <style>
-      .h1 { font-family: 'Poppins', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 800; font-size: 46px; fill: #f8fafc; letter-spacing: 0.5px; }
-      .body { font-family: 'Poppins', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-size: 22px; fill: #e0e7ff; }
-      .pill-label { font-family: 'Poppins', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-size: 15px; fill: #ffffff; letter-spacing: 1px; }
-      .value { font-family: 'Poppins', 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-size: 21px; fill: #f1f5f9; }
-      .line { stroke: #22d3ee; stroke-width: 3; stroke-linecap: round; }
+      .h1 { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-size: 42px; fill: #f8fafc; }
+      .body { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-size: 22px; fill: #cbd5e1; }
+      .label { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 700; font-size: 20px; fill: #60a5fa; }
+      .value { font-family: 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 400; font-size: 20px; fill: #e2e8f0; }
+      .line { stroke: #2563eb; stroke-width: 3; stroke-linecap: round; }
     </style>
   </defs>
 
-  <rect x="0" y="0" width="1200" height="600" rx="24" fill="url(#bgGrad)"/>
-  <circle cx="1080" cy="70" r="180" fill="url(#glow)" filter="url(#blurMe)"/>
-  <rect x="2" y="2" width="1196" height="596" rx="22" fill="none" stroke="url(#borderGrad)" stroke-width="2" opacity="0.6"/>
+  <rect x="0" y="0" width="1200" height="540" fill="#0f172a" rx="14"/>
+  <rect x="1.5" y="1.5" width="1197" height="537" rx="12.5" fill="none" stroke="#1e293b" stroke-width="1"/>
 
-  <text x="60" y="88" class="h1">About Me</text>
-  <line x1="62" y1="106" x2="62" y2="106" class="line">
-    <animate attributeName="x2" values="62;300;62" dur="3.5s" repeatCount="indefinite"/>
-  </line>
+  <text x="60" y="86" class="h1">About Me</text>
+  <line x1="62" y1="104" x2="230" y2="104" class="line"/>
 
   <text class="body">
-    <tspan x="60" y="158">Computer Science &amp; Engineering student (4th semester) focused on machine</tspan>
-    <tspan x="60" y="192">learning and full-stack web development. I prefer building complete, working</tspan>
-    <tspan x="60" y="226">products over isolated experiments. My main project, SkillQuest, is a</tspan>
-    <tspan x="60" y="260">full-stack learning platform with a live deployment and a real backend.</tspan>
+    <tspan x="60" y="156">Computer Science &amp; Engineering student (5th semester) focused on machine</tspan>
+    <tspan x="60" y="190">learning and full-stack web development. I prefer building complete, working</tspan>
+    <tspan x="60" y="224">products over isolated experiments. My main project, SkillQuest, is a</tspan>
+    <tspan x="60" y="258">full-stack learning platform with a live deployment and a real backend.</tspan>
   </text>
 
-  <line x1="60" y1="298" x2="1140" y2="298" stroke="#4c1d95" stroke-width="1"/>
+  <line x1="60" y1="296" x2="1140" y2="296" stroke="#1e293b" stroke-width="1"/>
 
-  <circle cx="150" cy="340" r="34" fill="#6366f1" opacity="0.25" filter="url(#blurMe)"/>
-  <rect x="60" y="320" width="190" height="40" rx="20" fill="#6366f1"/>
-  <text x="155" y="345" text-anchor="middle" class="pill-label">EDUCATION</text>
-  <text x="272" y="346" class="value">B.Tech, Computer Science &amp; Engineering (4th semester)</text>
-
-  <circle cx="150" cy="400" r="34" fill="#06b6d4" opacity="0.25" filter="url(#blurMe)"/>
-  <rect x="60" y="380" width="190" height="40" rx="20" fill="#06b6d4"/>
-  <text x="155" y="405" text-anchor="middle" class="pill-label">FOCUS AREAS</text>
-  <text x="272" y="406" class="value">Machine Learning, Full-Stack Web Development</text>
-
-  <circle cx="150" cy="460" r="34" fill="#10b981" opacity="0.25" filter="url(#blurMe)"/>
-  <rect x="60" y="440" width="190" height="40" rx="20" fill="#10b981"/>
-  <text x="155" y="465" text-anchor="middle" class="pill-label">SEEKING</text>
-  <text x="272" y="466" class="value">Research internships, Software Engineering roles</text>
-
-  <circle cx="150" cy="520" r="34" fill="#f472b6" opacity="0.25" filter="url(#blurMe)"/>
-  <rect x="60" y="500" width="190" height="40" rx="20" fill="#f472b6"/>
-  <text x="155" y="525" text-anchor="middle" class="pill-label">LOCATION</text>
-  <text x="272" y="526" class="value">India</text>
+  <text x="60" y="338"><tspan class="label">Education:  </tspan><tspan class="value">B.Tech, Computer Science &amp; Engineering (5th semester)</tspan></text>
+  <text x="60" y="378"><tspan class="label">Focus areas:  </tspan><tspan class="value">Machine Learning, Full-Stack Web Development</tspan></text>
+  <text x="60" y="418"><tspan class="label">Currently seeking:  </tspan><tspan class="value">Research internships, Software Engineering roles</tspan></text>
+  <text x="60" y="458"><tspan class="label">Location:  </tspan><tspan class="value">India</tspan></text>
 </svg>
